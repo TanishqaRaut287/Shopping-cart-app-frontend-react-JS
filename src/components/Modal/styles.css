@@ -1,0 +1,11 @@
+.popform{
+    position: absolute;
+    width: 500px;
+    height: 570px;
+    left: 550px;
+    top: 100px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 4px 62px rgba(0, 0, 0, 0.12);
+    border-radius: 6px;
+}
